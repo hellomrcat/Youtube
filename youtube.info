@@ -3,6 +3,12 @@ description = Provides a YouTube widget for fields.
 package = Fields
 type = module
 backdrop = 1.x
+
+maintainers[hellomrcat] = Paul Davis
+maintainers[jenlampton] = Jen Lampton
+maintainers[danielrose28] = Daniel Rose
+maintainers[yorkshire-pudding] = Martin Price
+
 dependencies[] = field
 dependencies[] = image
 dependencies[] = file
